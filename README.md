@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Sankpal</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Angular (Web framework)**
 
 <!--
 **TanmaySankpal/TanmaySankpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
