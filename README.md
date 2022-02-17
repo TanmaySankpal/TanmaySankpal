@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, Iam Tanmay Sankpal</h1>
+<h1 align="center">Hi 👋, I am Tanmay Sankpal</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
 - 🌱 I’m currently learning **Angular (Web framework)**
